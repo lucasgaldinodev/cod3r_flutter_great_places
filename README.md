@@ -1,6 +1,6 @@
-# Projeto Great Places 2022
+# Projeto Great Places
 
-Projeto atualizado para as versões novas do Dart e Flutter do projeto Great Places do curso [Aprenda Flutter & Dart e Construa APPs iOS e Android](https://www.cod3r.com.br/courses/aprenda-flutter-dart-e-construa-apps-ios-e-android) da [Cod3r](https://www.cod3r.com.br/).
+Projeto Great Places do curso [Aprenda Flutter & Dart e Construa APPs iOS e Android](https://www.cod3r.com.br/courses/aprenda-flutter-dart-e-construa-apps-ios-e-android) da [Cod3r](https://www.cod3r.com.br/) atualizado para o Flutter 3.
 
 ## Executando o projeto
 
